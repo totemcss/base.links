@@ -1,0 +1,10 @@
+{
+  "name": "totem-links",
+  "version": "0.1.0",
+  "authors": "Florian Bouvot",
+  "main": "_generic.links.scss",
+  "ignore": [
+    "test",
+    ".*"
+  ],
+}
