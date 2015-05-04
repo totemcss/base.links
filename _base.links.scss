@@ -1,0 +1,22 @@
+/*------------------------------------*\
+    #LINKS
+\*------------------------------------*/
+
+$color-links:       #0000ee !default;
+$color-links-hover: $color-links !default;
+
+
+
+
+
+a {
+    color: $color-links;
+    text-decoration: none;
+}
+
+a:hover,
+a:focus,
+a:active {
+    color: $color-links-hover;
+    text-decoration: underline;
+}
