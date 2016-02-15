@@ -1,5 +1,7 @@
 # Links
 
+inuitcss plugin that provides very basic styling for links (a).
+
 ## Installation
 
 - npm : `npm install --save totem-links`
