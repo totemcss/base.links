@@ -1,6 +1,6 @@
 # Links
 
-inuitcss plugin that provides very basic styling for links (a).
+inuitcss plugin that provides very basic styling for links `a`.
 
 ## Installation
 
