@@ -1,5 +1,6 @@
 {
   "name": "totem-links",
+  "version": "0.2.0",
   "description": "Simple link styles",
   "main": "_generic.links.scss",
   "authors": [
