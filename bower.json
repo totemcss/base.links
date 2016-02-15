@@ -1,10 +1,23 @@
 {
   "name": "totem-links",
-  "version": "0.1.0",
-  "authors": "Florian Bouvot",
+  "description": "Simple link styles",
   "main": "_generic.links.scss",
+  "authors": [
+    "Florian Bouvot <florian.bouvot@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "inuitcss",
+    "oocss",
+    "css"
+  ],
+  "homepage": "https://github.com/totemcss/base.links",
+  "moduleType": [],
   "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
     "test",
-    ".*"
+    "tests"
   ]
 }

@@ -1,0 +1,24 @@
+{
+  "name": "totem-links",
+  "version": "0.1.0",
+  "description": "Simple link styles",
+  "main": "_generic.links.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/totemcss/base.links.git"
+  },
+  "keywords": [
+    "inuitcss",
+    "oocss",
+    "css"
+  ],
+  "author": "Florian Bouvot <florian.bouvot@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/totemcss/base.links/issues"
+  },
+  "homepage": "https://github.com/totemcss/base.links#readme"
+}
